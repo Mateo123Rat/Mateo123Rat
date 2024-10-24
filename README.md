@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Mateo123Rat
+- 👀 I’m interested in how to do the VR headset for samsung
+- 🌱 I’m currently learning how to do it
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Mateo123Rat/Mateo123Rat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
